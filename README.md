@@ -13,6 +13,7 @@ ir5_0  |     6
 
 #### OUTPUTS
 Name   | Size(Bits)
+---------|-------------
 rf_we  |     1      
 add2_s  |     1      
 rf_wd_s |     1      
